@@ -1,15 +1,36 @@
 # skill-assessment-1
-PROGRAM AND OUTPUT:
 
-![image](https://github.com/user-attachments/assets/8d3f2d50-cc22-48ce-ac20-a756596d12d9)
-![image](https://github.com/user-attachments/assets/c477b0b1-c41c-487c-878f-032e9b221dcb)
-![image](https://github.com/user-attachments/assets/dd8b4aaa-e3b1-4f80-aad4-0526cf328727)
-![image](https://github.com/user-attachments/assets/0472da11-95a4-469d-8235-3a6fcece08f9)
-![image](https://github.com/user-attachments/assets/cf848849-14ef-4dbe-98e0-58c9646c0263)
-![image](https://github.com/user-attachments/assets/9cb47718-609e-4c32-b846-1a60bf989ec4)
-![image](https://github.com/user-attachments/assets/02fd4df8-27da-40de-84e0-b992d86c8ce6)
-![image](https://github.com/user-attachments/assets/c89777f9-285e-4e5d-8873-f56bbd10bfd4)
-![image](https://github.com/user-attachments/assets/0112fa77-2c5a-4a94-9af4-0cfc628466e0)
-![image](https://github.com/user-attachments/assets/c629773f-5660-4767-a808-7df03318d698)
-![image](https://github.com/user-attachments/assets/508c341f-49b0-43e6-b6bf-ebc672e2f725)
-![image](https://github.com/user-attachments/assets/b86827f6-22b6-44c5-ac64-d8b2f3f34597)
+# PROGRAM AND OUTPUT:
+![WhatsApp Image 2025-05-13 at 10 19 33_ecff9e2c](https://github.com/user-attachments/assets/216fdd14-bc45-487b-99cb-8763dd67a7b7)
+![WhatsApp Image 2025-05-13 at 10 23 22_28f36d45](https://github.com/user-attachments/assets/5af0a537-12a9-44da-a624-de981047addc)
+![WhatsApp Image 2025-05-13 at 10 24 52_2281c569](https://github.com/user-attachments/assets/b28487ed-d747-4229-83ec-4ac9cc6323e7)
+![WhatsApp Image 2025-05-13 at 10 25 10_bf6e1e69](https://github.com/user-attachments/assets/5cb1cc93-b708-4990-95c6-2842b82f8dd1)
+![WhatsApp Image 2025-05-13 at 10 25 35_4bbf26a1](https://github.com/user-attachments/assets/15ba8cbb-3170-45b7-bd31-b1c82f4546e2)
+![WhatsApp Image 2025-05-13 at 10 26 07_2254ef29](https://github.com/user-attachments/assets/df38a8f9-4d7b-46dc-87c5-25d8df21a387)
+![WhatsApp Image 2025-05-13 at 10 26 23_5f8f6588](https://github.com/user-attachments/assets/0a8d2785-4194-4dbb-9f1d-ae8d0104ea2d)
+![WhatsApp Image 2025-05-13 at 10 27 01_66be8f91](https://github.com/user-attachments/assets/82265dfb-c379-487a-ac74-3ab572769f87)
+![WhatsApp Image 2025-05-13 at 10 27 44_3d1508e4](https://github.com/user-attachments/assets/ad240d02-5f68-4f1c-90be-edb63c580a59)
+![WhatsApp Image 2025-05-13 at 10 28 02_aa929144](https://github.com/user-attachments/assets/3b1d4a30-e52a-4abc-9b4c-1d591a4ab56f)
+![WhatsApp Image 2025-05-13 at 10 28 19_e6b257f5](https://github.com/user-attachments/assets/29f6879e-dd54-47ff-8189-72eee38f029e)
+![WhatsApp Image 2025-05-13 at 10 28 36_cdc9229d](https://github.com/user-attachments/assets/caee8ff1-b9bc-4844-bf97-2d02353a7d28)
+![WhatsApp Image 2025-05-13 at 10 28 55_a27ab882](https://github.com/user-attachments/assets/b210baec-c09b-4bbd-be49-99a5a1e7fa48)
+![WhatsApp Image 2025-05-13 at 10 29 13_15f48947](https://github.com/user-attachments/assets/c9ae451f-e714-4889-a15c-92cdaabff8e1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
